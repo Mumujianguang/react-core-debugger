@@ -58,8 +58,8 @@
     "babel-preset-flow": "^6.23.0",
     "flow-bin": "^0.179.0",
     "moment": "^2.29.3",
-    "react": "^18.1.0",
+    "react": "18.2.0",
     "react-dnd": "^16.0.1",
-    "react-dom": "^18.1.0"
+    "react-dom": "18.2.0"
   }
 }
